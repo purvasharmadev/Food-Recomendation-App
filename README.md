@@ -1,2 +1,2 @@
-# Food-Recomendation-App
+# Emoji-interpreter-react
 Created with CodeSandbox
